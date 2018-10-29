@@ -24,4 +24,4 @@ net.SGD(training_data, 60, mini_batch_size, 0.1, validation_data, test_data) # Î
 
 end = time.time()
 
-print('time needed to run program:', end â€“ start)
+print('time needed to run program:', end - start)
